@@ -109,7 +109,7 @@ db.mongoose
 var corsOptions = {
 
   //origin: ["http://localhost:8081"],
-  origin: ["https://main--gleaming-profiterole-52d7ba.netlify.app"],
+  origin: ["https://gleaming-profiterole-52d7ba.netlify.app"],
   credentials: true
 
 };
